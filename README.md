@@ -1,3 +1,6 @@
+# Hi Guys, My Name is Ade
+I just had tried to make simple reminder app using reactjs, hope this can be a good beggining of my career path on reactjs and as a frontend developer.
+thankyou
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
